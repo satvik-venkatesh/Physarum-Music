@@ -3,6 +3,7 @@ This repository comprises audio and MIDI files composed by the author and Physar
 
 If you use any audio or MIDI files in your research, please cite the paper as the following:
 
+```BibTeX
 @InProceedings{venkatesh2020composing,
   author    = {Satvik Venkatesh and Edward Braund and Eduardo Reck Miranda},
   booktitle = {International Conference on New Interfaces for Musical Expression (NIME)},
@@ -10,3 +11,4 @@ If you use any audio or MIDI files in your research, please cite the paper as th
   year      = {2020},
   publisher = {The Royal Birmingham Conservatoire},
 }
+```
